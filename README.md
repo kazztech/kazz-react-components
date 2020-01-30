@@ -1,3 +1,5 @@
-# @kazzzz1001/kazz-react-components
+# kazz-react-components
 
-hello!
+## install
+
+`npm install @kazzzz1001/kazz-react-components`
